@@ -4,3 +4,4 @@ __pycache__/
 .dvc/cache/
 mlruns/
 .env
+mlflow.db
